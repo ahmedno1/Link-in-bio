@@ -37,7 +37,7 @@ export const config = {
     profile: {
         name: "Ahmed Yousef Almouqaid",
         tagline: "Software developer",
-        avatarUrl: "src/img/1000099137.png",
+        avatarUrl: "public/img/1000099137.png",
         location: "Palstine , Gaza",
         bio: "I am a software developer with experience in web development. I am passionate about building fast, beautiful, and accessible web experiences."
     },
